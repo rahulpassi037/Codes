@@ -427,6 +427,8 @@ int main()
     string alphaexpression = "(val1-val2/C)*(A/K-L)";
     string numexpression = " 3+5 / 2 +2*2";
 
+    // numexpression = alphaexpression; Error
+
     cout<<endl<<"Infix Expression : "<<numexpression<<endl;
     cout<<"Infix Evaluate : "<<infixEvaluate(numexpression)<<endl;
     cout<<"Infix to Prefix : "<<infixToPrefix(numexpression)<<endl;
