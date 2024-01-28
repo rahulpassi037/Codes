@@ -31,6 +31,15 @@ int main()
     cout<<endl;
 
     // list - doubly linked list - similar to vector
+    // create list and push elements
+    list<int> li;
+    li.push_back(2);
+    li.push_front(1);
+    // reverse list and delete elements
+    li.reverse();
+    li.pop_back();
+    li.pop_front();
+    // many more functionalities available - refer - https://cplusplus.com/reference/list/list/
 
     // stack
     cout<<"Stack: "<<endl;
