@@ -1,3 +1,8 @@
+**Table of contents**
+
+* [Templates](https://github.com/rahulpassi037/Codes#templates)
+  * [STL](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#stl)
+
 # Templates
 
 ## STL
