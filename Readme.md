@@ -21,31 +21,12 @@
   * [String functions](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#string-functions)
 * [Hashmap Heap](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#hashmap-heap)
   * [Sliding Window](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#sliding-window)
-  * [Top K pattern](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#top-k-pattern)
-  * [Merge K sorted](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#merge-k-sorted)
-  * [Two heaps pattern](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#two-heaps-pattern)
-  * [Minimum number pattern](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#minimum-number-pattern)
 * [Searching Sorting](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#searching-sorting)
   * [Basic searching sorting algos](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#basic-searching-sorting-algos)
   * [Binary Search](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#binary-search-all-templates)
-  * [Merge sort](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#merge-sort)
-  * [Quick select algo](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#quick-select-algo)
 * [DP Recursion Backtracking](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#recursionbacktrackingdp)
-  * [Recursion](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#recursion)
-  * [Backtracking](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#backtracking)
-  * [Linear DP](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#linear-dp)
-  * [0-1 Knapsack](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#0-1-knapsack)
-  * [Unbounded Knapsack](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#unbounded-knapsack)
-  * [Include Exclude](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#include-exclude)
   * [Multi dimensional DP](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#2d-dp-multidimensional-dp-gap-strategy)
-  * [Digit DP](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#digit-dp)
-  * [DP on trees](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#dp-on-trees)
-  * [DP on graphs](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#dp-on-graphs)
-  * [String DP](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#string-dp-regex-wildcard-lcs)
   * [LIS](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#lis)
-  * [Buy and sell stocks](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#buy-and-sell-stock)
-  * [Memoization](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#memoization)
-  * [Maze](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#maze)
 * [Arrays Strings](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#arraysstring)
   * [Two pointers](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#two-pointers)
   * [Max chunks to make sorted](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#max-chunks-to-make-sorted)
@@ -55,14 +36,9 @@
   * [Asteroid collision](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#asteroid-collision)
 * [Trees](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#trees)
   * [Traversal](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#traversal)
-  * [Conversion](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#conversion)
-  * [Construction](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#construction)
   * [Segment Trees](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#segment-trees)
   * [Tries](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#tries)
   * [Fenwick trees](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#fenwick-trees)
-  * [BST](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#bst)
-  * [Path Problems](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#path-problems)
-  * [Longest common ancestor](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#longest-common-ancestor)
 * [Graphs](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#graphs)
   * [BFS](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#bfs)
   * [DFS](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#dfs)
@@ -444,26 +420,6 @@ str.substr(index, len) - substring to be extracted starting from index and lengh
 TBA
 ```
 
-### Top k pattern
-```
-TBA
-```
-
-### Merge K sorted
-```
-TBA
-```
-
-### Two heaps pattern
-```
-TBA
-```
-
-### Minimum number pattern
-```
-TBA
-```
-
 ## Searching Sorting
 
 ### Basic searching sorting algos
@@ -481,84 +437,14 @@ TBA
 TBA
 ```
 
-### Quick select algo
-```
-TBA
-```
-
 ## Recursion/Backtracking/DP
-
-### Recursion
-```
-TBA
-```
-
-### Backtracking
-```
-TBA (include subsequence subarray subset)
-```
-
-### Linear DP
-```
-TBA
-```
-
-### 0-1 Knapsack
-```
-TBA
-```
-
-### Unbounded Knapsack
-```
-TBA
-```
-
-### Include Exclude
-```
-TBA
-```
 
 ### 2D DP, Multidimensional DP, Gap strategy
 ```
 TBA
 ```
 
-### Digit DP
-```
-TBA
-```
-
-### DP on Trees
-```
-TBA
-```
-
-### DP on Graphs
-```
-TBA
-```
-
-### String DP (Regex, wildcard, LCS)
-```
-TBA
-```
-
 ### LIS
-```
-TBA
-```
-
-### Buy and sell stock
-```
-TBA
-```
-
-### Memoization
-```
-TBA
-```
-
-### Maze
 ```
 TBA
 ```
@@ -599,16 +485,6 @@ TBA
 TBA - recursive, stack and morris
 ```
 
-### Conversion
-```
-TBA
-```
-
-### Construction
-```
-TBA
-```
-
 ### Segment Trees
 ```
 TBA
@@ -620,21 +496,6 @@ TBA
 ```
 
 ### Fenwick Trees
-```
-TBA
-```
-
-### BST
-```
-TBA
-```
-
-### Path problems
-```
-TBA
-```
-
-### Longest common ancestor
 ```
 TBA
 ```
