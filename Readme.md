@@ -302,3 +302,62 @@ for(auto element:a) {
     cout<<element<<" ";
 }
 ```
+
+### String functions
+
+```
+isalnum() - check whether character is alphanumeric (decimal or uppercase/lowercase)
+isalpha(), isdigit(), isupper(), islower()
+
+tolower() - convert a character to lowercase
+toupper() - convert a character to uppercase
+```
+
+### Limits and math functions
+```
+INT_MIN - Minimum possible value of integer
+INT_MAX - Maximum possible value of integer
+UINT_MAX
+LONG_MIN
+LONG_MAX
+ULONG_MAX
+LLONG_MIN
+LLONG_MAX
+ULLONG_MAX
+
+All math functions take double as input and return double as output
+
+sin, cos, tan - angle in radians
+exp - calculate exponential value
+log - natural log
+log10 - base 10 log
+pow(a,b) - a^b (pass double values)
+sqrt(x) - calculate square root of x
+cbrt(x) - calculate cubic root of x
+ceil(x) - calculate ceiling of x
+floor(x) - calculate floor of x
+round(x) - round value of x
+abs(x) - calculate absolute value of x
+```
+
+### String functions
+```
+functions of cstring
+strcpy(str1, str2) - copy str2 into str1
+strcat(str1, str2) - concatenate str2 into str1
+strcmp(str1, str2) - <0 (first mismatching character is greater in str2), 0 (both strings are same), >0 (first mismatching character is greater in str1)
+strstr(str1, str2) - returns pointer to first occurence of str2 in str1
+strlen(str1) - get length of str1
+
+Functions of string header library
+stoi - string to int - base can also be supplied as third param
+stol - string to long
+stoll - string to long long
+stod - string to double
+stold - sting to long double
+
+Functions of string class
+str.append(str1) - append str1 to str
+str.find(Str1) - find first occurence of the sequence in the string
+str.substr(index, len) - substring to be extracted starting from index and lenght len
+```
