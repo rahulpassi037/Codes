@@ -379,3 +379,267 @@ str.append(str1) - append str1 to str
 str.find(Str1) - find first occurence of the sequence in the string
 str.substr(index, len) - substring to be extracted starting from index and lenght len
 ```
+
+## Hashmap Heap
+
+### Sliding Window
+```
+TBA
+```
+
+### Top k pattern
+```
+TBA
+```
+
+### Merge K sorted
+```
+TBA
+```
+
+### Two heaps pattern
+```
+TBA
+```
+
+### Minimum number pattern
+```
+TBA
+```
+
+## Searching Sorting
+
+### Basic searching sorting algos
+```
+TBA
+```
+
+### Binary search all templates
+```
+TBA
+```
+
+### Merge sort
+```
+TBA
+```
+
+### Quick select algo
+```
+TBA
+```
+
+## Recursion/Backtracking/DP
+
+### Recursion
+```
+TBA
+```
+
+### Backtracking
+```
+TBA (include subsequence subarray subset)
+```
+
+### Linear DP
+```
+TBA
+```
+
+### 0-1 Knapsack
+```
+TBA
+```
+
+### Unbounded Knapsack
+```
+TBA
+```
+
+### Include Exclude
+```
+TBA
+```
+
+### 2D DP, Multidimensional DP, Gap strategy
+```
+TBA
+```
+
+### Digit DP
+```
+TBA
+```
+
+### DP on Trees
+```
+TBA
+```
+
+### DP on Graphs
+```
+TBA
+```
+
+### String DP (Regex, wildcard, LCS)
+```
+TBA
+```
+
+### LIS
+```
+TBA
+```
+
+### Buy and sell stock
+```
+TBA
+```
+
+### Memoization
+```
+TBA
+```
+
+### Maze
+```
+TBA
+```
+
+## Arrays/String
+
+### Two pointers
+```
+TBA
+```
+
+### Max chunks to make sorted
+```
+TBA
+```
+
+### KMP algo
+```
+TBA
+```
+
+## Stacks/Queues
+
+### Next smaller/Next greater
+```
+TBA
+```
+
+### Asteroid collision
+```
+TBA
+```
+
+## Trees
+
+### Traversal
+```
+TBA - recursive, stack and morris
+```
+
+### Conversion
+```
+TBA
+```
+
+### Construction
+```
+TBA
+```
+
+### Segment Trees
+```
+TBA
+```
+
+### Tries
+```
+TBA
+```
+
+### Fenwick Trees
+```
+TBA
+```
+
+### BST
+```
+TBA
+```
+
+### Path problems
+```
+TBA
+```
+
+### Longest common ancestor
+```
+TBA
+```
+
+## Graphs
+
+### BFS
+```
+TBA
+```
+
+### DFS
+```
+TBA
+```
+
+### Dijkstras
+```
+TBA
+```
+
+### Bellman Ford
+```
+TBA
+```
+
+### Floyd Warshall
+```
+TBA
+```
+
+### Prims
+```
+TBA
+```
+
+### Kruskals
+```
+TBA
+```
+
+### Topological sorting
+```
+TBA
+```
+
+### DSU
+```
+TBA
+```
+
+### Maximum flow (Ford Fulkerson)
+```
+TBA
+```
+
+### Kosaraju algo
+```
+TBA
+```
+
+### Articulation points and bridges
+```
+TBA
+```
