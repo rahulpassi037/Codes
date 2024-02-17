@@ -1,7 +1,25 @@
 **Table of contents**
 
-* [Templates](https://github.com/rahulpassi037/Codes#templates)
-  * [STL](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#stl)
+* [STL](https://github.com/rahulpassi037/Codes?tab=readme-ov-file#stl)
+  * [Vector](https://github.com/rahulpassi037/Codes#vector)
+  * [List](https://github.com/rahulpassi037/Codes#list)
+  * [Stack](https://github.com/rahulpassi037/Codes#stack)
+  * [Queue](https://github.com/rahulpassi037/Codes#queue)
+  * [Doubly ended queue](https://github.com/rahulpassi037/Codes#doubly-ended-queue)
+  * [Priority queue](https://github.com/rahulpassi037/Codes#priority-queue)
+  * [Min priority queue](https://github.com/rahulpassi037/Codes#min-priority-queue)
+  * [Priority queue using comparator](https://github.com/rahulpassi037/Codes#priority-queue-using-comparator)
+  * [Set](https://github.com/rahulpassi037/Codes#set)
+  * [Set descending order](https://github.com/rahulpassi037/Codes#set-descending-order)
+  * [Map](https://github.com/rahulpassi037/Codes#map)
+  * [Unordered set](https://github.com/rahulpassi037/Codes#map)
+  * [Unordered map](https://github.com/rahulpassi037/Codes#map)
+  * [Custom sorting](https://github.com/rahulpassi037/Codes#map)
+  * [Auto iterator for loop](https://github.com/rahulpassi037/Codes#auto-iterator-and-for-loop)
+  * [Ctype functions](https://github.com/rahulpassi037/Codes#string-functions)
+  * [Limits and math functions](https://github.com/rahulpassi037/Codes#limits-and-math-functions)
+  * [String functions](https://github.com/rahulpassi037/Codes#string-functions-1)
+
 
 # Templates
 
@@ -303,7 +321,7 @@ for(auto element:a) {
 }
 ```
 
-### String functions
+### Ctype functions
 
 ```
 isalnum() - check whether character is alphanumeric (decimal or uppercase/lowercase)
