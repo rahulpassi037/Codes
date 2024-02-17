@@ -16,7 +16,7 @@
   * [Unordered map](https://github.com/rahulpassi037/Codes#map)
   * [Custom sorting](https://github.com/rahulpassi037/Codes#map)
   * [Auto iterator for loop](https://github.com/rahulpassi037/Codes#auto-iterator-and-for-loop)
-  * [Ctype functions](https://github.com/rahulpassi037/Codes#string-functions)
+  * [Ctype functions](https://github.com/rahulpassi037/Codes#ctype-functions)
   * [Limits and math functions](https://github.com/rahulpassi037/Codes#limits-and-math-functions)
   * [String functions](https://github.com/rahulpassi037/Codes#string-functions-1)
 
